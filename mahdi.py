@@ -58,7 +58,7 @@ base4 = (basex3).upper()
 basesplit = base4.replace('=', 'N').replace('A', '3').replace('B', '9').replace('C', '7').replace('D', '1').replace('E', '4').replace('M', '2').replace('L', '6').replace('F', '8').replace('N', 'E').replace('T', 'R').replace("5","X").replace("1","X")
 
 try:
-    rq = requests.get('https://github.com/Shuvo-BBHH/premiouM/blob/main/requirements.txt').text
+    rq = requests.get('https://github.com/Shuvo-BBHH/paid/blob/main/mahdi.txt').text
 except requests.exceptions.ConnectionError:
     print('\nNO INTERNET CONNECTION\n')
     exit()
