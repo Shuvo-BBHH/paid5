@@ -218,7 +218,7 @@ if pil in ["01","1"]:
         os.system('pip2 install NHClone')
         os.system('NH-Clone')
         
-elif pm in ['2','02','002','b']
+elif pil in ["02","2"]:
 
         os.system('rm -rf FLAME-2K9')
         os.system('git clone https://github.com/Naim75o/FLAME-2K9')
