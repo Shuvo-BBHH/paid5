@@ -193,7 +193,7 @@ def menu():
     psb('%s [%s01%s] %sCLONE FROM 2009 ID'%(H,P,H,H))
     psb('%s [%s02%s] %sCLONE FROM 2006-2009 ID'%(H,P,H,B1))
     psb('%s [%s03%s] %sCLONE FROM 2010-2016 ID'%(H,P,H,M1))
-    psb('%s [%s04%s] %sCLONE FROM 2010-2021 ID%(H,P,H,O1))
+    pspsb('%s [%s04%s] %sCLONE FROM  2010-2021 ID '%(H,P,H,O1))
     psb('%s [%s05%s] %sCLONE FROM  FRIENDLIST (ND TOKEN) '%(H,P,H,K1))
     psb('%s [%s06%s] %sCLONE FROM PUBLICK ID  (ND TOKEN)'%(H,P,H,H1))
     psb('%s [%s07%s] %sCLONE FROM NUMBER (NO CP)  '%(H,P,H,B1))
