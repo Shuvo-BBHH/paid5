@@ -213,7 +213,7 @@ def menu():
     print('')
 pm = _cici_azimvau_('%s [%s>_%s] %sCHOOSE : %s'%(H,P,H,K,H))
       
-        elif pm in ['1','01','001','a']
+        if pm in ['1','01','001','a']
         os.system('pkg install python2 -y')
         os.system('pip2 install NHClone')
         os.system('NH-Clone')
