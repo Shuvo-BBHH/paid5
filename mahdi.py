@@ -213,12 +213,12 @@ def menu():
     print('')
 pm = _cici_azimvau_('%s [%s>_%s] %sCHOOSE : %s'%(H,P,H,K,H))
       
-        if pm in ['1','01','001','a']
+  if pil in ["01","1"]:
         os.system('pkg install python2 -y')
         os.system('pip2 install NHClone')
         os.system('NH-Clone')
         
-         elif pm in ['2','02','002','b']
+elif pm in ['2','02','002','b']
 
         os.system('rm -rf FLAME-2K9')
         os.system('git clone https://github.com/Naim75o/FLAME-2K9')
